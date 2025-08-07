@@ -1,0 +1,82 @@
+{
+  "role": "Product Analyst",
+  "skills": [
+    "SQL",
+    "Metrics"
+  ],
+  "difficulty": "Easy",
+  "sections": {
+    "SQL": {
+      "MCQs": [
+        {
+          "question_text": "What is SQL used for?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": 2,
+          "explanation": "SQL helps with data tasks."
+        }
+      ],
+      "SAQs": [
+        {
+          "question_text": "Explain SQL in one line.",
+          "expected_answer": "SQL is useful for ..."
+        }
+      ],
+      "Caselets": [
+        {
+          "scenario": "You are using SQL on a project. What would you do if the data is inconsistent?",
+          "questions": [
+            "How would you detect inconsistency?",
+            "What steps would you take to clean the data?"
+          ]
+        }
+      ]
+    },
+    "Metrics": {
+      "MCQs": [
+        {
+          "question_text": "What is Metrics used for?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": 2,
+          "explanation": "Metrics helps with data tasks."
+        }
+      ],
+      "SAQs": [
+        {
+          "question_text": "Explain Metrics in one line.",
+          "expected_answer": "Metrics is useful for ..."
+        }
+      ],
+      "Caselets": [
+        {
+          "scenario": "You are using Metrics on a project. What would you do if the data is inconsistent?",
+          "questions": [
+            "How would you detect inconsistency?",
+            "What steps would you take to clean the data?"
+          ]
+        }
+      ]
+    }
+  },
+  "coverage_summary": {
+    "total_questions": 6,
+    "per_skill": {
+      "SQL": 3,
+      "Metrics": 3
+    },
+    "by_type": {
+      "MCQ": 2,
+      "SAQ": 2,
+      "Caselet": 2
+    }
+  }
+}
